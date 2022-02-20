@@ -1,0 +1,15 @@
+D:\apiStudy\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\apiStudy\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\apiStudy\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\apiStudy\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\apiStudy\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\apiStudy\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\apiStudy\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\apiStudy\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\apiStudy\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\apiStudy\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\apiStudy\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\apiStudy\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\apiStudy\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\apiStudy\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+D:\apiStudy\src\Api.Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig

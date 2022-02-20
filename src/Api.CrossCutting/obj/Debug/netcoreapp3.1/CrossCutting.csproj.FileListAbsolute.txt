@@ -1,0 +1,17 @@
+D:\apiStudy\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+D:\apiStudy\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+D:\apiStudy\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\apiStudy\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+D:\apiStudy\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+D:\apiStudy\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+D:\apiStudy\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+D:\apiStudy\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\apiStudy\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+D:\apiStudy\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+D:\apiStudy\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+D:\apiStudy\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\apiStudy\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+D:\apiStudy\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+D:\apiStudy\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
+D:\apiStudy\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.AssemblyReference.cache
+D:\apiStudy\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
