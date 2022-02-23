@@ -74,6 +74,6 @@ D:\apiStudy\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.S
 D:\apiStudy\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\apiStudy\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\apiStudy\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
-D:\apiStudy\src\Api.Application\bin\Debug\netcoreapp3.1\application.StaticWebAssets.xml
+D:\apiStudy\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\apiStudy\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.AssemblyReference.cache
 D:\apiStudy\src\Api.Application\obj\Debug\netcoreapp3.1\application.GeneratedMSBuildEditorConfig.editorconfig
