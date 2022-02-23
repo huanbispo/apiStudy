@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "PPHS5LJ/aEk4R0dXaywZLYWlHI3c/3yK49kgO6OAgtAUrzjNCeYUCL8UIRKRPu3Qi1DZqehBK4kL2Kpq4Q2kUA==",
+  "dgSpecHash": "SYs8PWwypkckhJO0JoaASmHU+ctqTz6csQ6m3HOrrRimtlnz36jIO1KjrDxqIrxSpVViUYcCqnHnxc6v6lXX4w==",
   "success": true,
   "projectFilePath": "D:\\apiStudy\\src\\Api.Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HuanA\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\HuanA\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.16.0\\microsoft.identitymodel.jsonwebtokens.6.16.0.nupkg.sha512",
+    "C:\\Users\\HuanA\\.nuget\\packages\\microsoft.identitymodel.logging\\6.16.0\\microsoft.identitymodel.logging.6.16.0.nupkg.sha512",
+    "C:\\Users\\HuanA\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.16.0\\microsoft.identitymodel.tokens.6.16.0.nupkg.sha512",
+    "C:\\Users\\HuanA\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.16.0\\system.identitymodel.tokens.jwt.6.16.0.nupkg.sha512",
+    "C:\\Users\\HuanA\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
