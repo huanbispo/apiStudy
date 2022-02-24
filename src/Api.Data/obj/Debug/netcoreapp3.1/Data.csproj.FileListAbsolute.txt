@@ -12,5 +12,4 @@ D:\apiStudy\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
 D:\apiStudy\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
 D:\apiStudy\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
 D:\apiStudy\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
-D:\apiStudy\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
-D:\apiStudy\src\Api.Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\apiStudy\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache

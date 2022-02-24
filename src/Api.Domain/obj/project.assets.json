@@ -296,11 +296,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\apiStudy\\src\\Api.Domain\\Domain.csproj",
+      "projectUniqueName": "d:\\apiStudy\\src\\Api.Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\apiStudy\\src\\Api.Domain\\Domain.csproj",
+      "projectPath": "d:\\apiStudy\\src\\Api.Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\HuanA\\.nuget\\packages\\",
-      "outputPath": "D:\\apiStudy\\src\\Api.Domain\\obj\\",
+      "outputPath": "d:\\apiStudy\\src\\Api.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HuanA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -315,7 +315,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -327,7 +326,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "System.IdentityModel.Tokens.Jwt": {
             "target": "Package",
@@ -349,7 +347,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
       }
     }
   }

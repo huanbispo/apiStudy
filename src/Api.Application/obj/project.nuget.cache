@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "U/Qi8QXz9PxQSThdQnRDaAbw3DUvAjKP0quwMIBHc+7Tsly5+Lo4gcZ5XA3fIzu5hutGPSG7UmF5y07dDFW0uw==",
+  "dgSpecHash": "awbiQtuJZ1haCoNXnn6c1HTN6P9cjCqbKBSlW8HWe5lWuI58UPyWnx5OAffmF0RAhumY2Pmn5HF45CbpCmHZDw==",
   "success": true,
   "projectFilePath": "D:\\apiStudy\\src\\Api.Application\\application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\HuanA\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\HuanA\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\HuanA\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\HuanA\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.22\\microsoft.aspnetcore.authentication.jwtbearer.3.1.22.nupkg.sha512",
     "C:\\Users\\HuanA\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

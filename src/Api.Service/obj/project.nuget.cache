@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5aEVwIzN9NdB2P9xWZoKFpy+OILOY+n0jvoAWiEhjL71l4Vkqrs7o8vfGkNOs/EfTYaCBJ8+T+Tqei/SB4wV0Q==",
+  "dgSpecHash": "6PQI68GJ9djgjX7HmNDDD2g6jCij4l8GfrwSdEfXikU6No5ROU68UdWA2B1Qlrtk9iyLwumJkKcx7FVO2OgB/w==",
   "success": true,
   "projectFilePath": "D:\\apiStudy\\src\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\HuanA\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\HuanA\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\HuanA\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
-    "C:\\Users\\HuanA\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\HuanA\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\HuanA\\.nuget\\packages\\microsoft.data.sqlclient\\1.1.3\\microsoft.data.sqlclient.1.1.3.nupkg.sha512",
     "C:\\Users\\HuanA\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.22\\microsoft.entityframeworkcore.3.1.22.nupkg.sha512",
     "C:\\Users\\HuanA\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.22\\microsoft.entityframeworkcore.abstractions.3.1.22.nupkg.sha512",
