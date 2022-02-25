@@ -6,6 +6,7 @@ using Api.Domain.Entities;
 using Api.Domain.Interfaces.Services.User;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
+using Api.Domain.Dtos.User;
 
 namespace Api.Application.Controllers
 {
@@ -61,15 +62,15 @@ namespace Api.Application.Controllers
 
         [Authorize("Bearer")]
         [HttpPost]
-        public async Task<ActionResult> Post([FromBody] UserEntity user)
+        public async Task<ActionResult> Post([FromBody] UserDtoCreate user)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
             try
             {
-                UserEntity userEntity = await _service.Post(user);
-                if (userEntity != null) return Created(new Uri(Url.Link("GetById", new { id = userEntity.id })), userEntity);
+                UserDtoCreateResult userEntity = await _service.Post(user);
+                if (userEntity != null) return Created(new Uri(Url.Link("GetById", new { id = userEntity.Id })), userEntity);
                 else return BadRequest();
             }
             catch (ArgumentException ex)
@@ -80,14 +81,14 @@ namespace Api.Application.Controllers
 
         [Authorize("Bearer")]
         [HttpPut]
-        public async Task<ActionResult> Put([FromBody] UserEntity user)
+        public async Task<ActionResult> Put([FromBody] UserDtoUpdate user)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
             try
             {
-                UserEntity result = await _service.Put(user);
+                UserDtoUpdateResult result = await _service.Put(user);
                 if (result != null) return Ok(result);
                 else return BadRequest();
             }
